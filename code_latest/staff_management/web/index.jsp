@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+    <h1> This is a staff management system.</h1>
   </body>
 </html>
